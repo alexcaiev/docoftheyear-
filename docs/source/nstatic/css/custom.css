@@ -1,0 +1,32 @@
+/* A partir de 1400px tu fixe */
+@media all and (min-width: 1400px) {
+	.stickies {
+		display: none;
+		width: 20%;
+		position: fixed;
+		top: 30%;
+		right: 2%;
+	}
+}
+
+/* En dessous de 1400px tu sticky */
+@media all and (max-width: 1400px) {
+	.stickies {
+		width: 30%;
+		position: -webkit-sticky;
+		position: sticky;
+		top: 0;
+		display: block;
+		margin: auto;
+	}
+}
+
+/* En dessous de 768 tu static */
+@media all and (max-width: 768px) {
+	.stickies {
+		width: 60%;
+		position: static;
+		display: block;
+		margin: auto;
+	}
+}
