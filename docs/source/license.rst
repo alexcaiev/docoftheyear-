@@ -1,7 +1,7 @@
 License
 =======
 
-Copyright (c) 2017 SMOOBO
+Copyright (c) 2017 ALEXCAIEV
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,4 +23,4 @@ SOFTWARE.
 
 Contact
 =======
-Question? Please contact wangglobal@gmail.com
+Question? Please contact xxxxxx@xxxx.xxx
